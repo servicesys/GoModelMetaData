@@ -14,4 +14,8 @@ goleveldb http://www.lmdb.tech/bench/microbench/benchmark.html
 Data Contracts — ensure robustness in your data mesh architecture
 https://towardsdatascience.com/data-contracts-ensure-robustness-in-your-data-mesh-architecture-69a3c38f07db
 
+Data Contracts — ensure robustness in your data mesh architecture
+https://towardsdatascience.com/data-contracts-ensure-robustness-in-your-data-mesh-architecture-69a3c38f07db
+
+
 ## json/schema - work schemas json
